@@ -16,6 +16,7 @@ public class Helloworld {
     public static void main(String[] args) {
         System.out.println("こんにちは世界");
         System.out.println("HelloWorld");
+        System.out.println("Have a nice day!");
         // TODO code application logic here
     }
 }
